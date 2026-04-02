@@ -61,16 +61,16 @@ export function Home() {
 
       <section>
         <div className="Get">
-          <img src="/src/assets/hq.jpg" />
-          <img src="/src/assets/hq1.jpg" />
-          <img src="/src/assets/image42.jpg" />
-          <img src="/src/assets/images40.jpg" />
-          <img src="/src/assets/images41.jpg" />
-          <img src="/src/assets/images43.jpg" />
-          <img src="/src/assets/images45.jpg" />
-          <img src="/src/assets/images46.jpg" />
-          <img src="/src/assets/images47.jpg" />
-          <img src="/src/assets/images48.jpg" />
+          <img src="public/hq.jpg" />
+          <img src="public/hq1.jpg" />
+          <img src="public/image42.jpg" />
+          <img src="public/images40.jpg" />
+          <img src="public/images41.jpg" />
+          <img src="public/images43.jpg" />
+          <img src="public/images45.jpg" />
+          <img src="public/images46.jpg" />
+          <img src="public/images47.jpg" />
+          <img src="public/images48.jpg" />
         </div>
       </section>
 
