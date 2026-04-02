@@ -59,20 +59,18 @@ export function Home() {
         </div>
       </section>
 
-      <section>
-        <div className="Get">
-          <img src="public/hq.jpg" />
-          <img src="public/hq1.jpg" />
-          <img src="public/image42.jpg" />
-          <img src="public/images40.jpg" />
-          <img src="public/images41.jpg" />
-          <img src="public/images43.jpg" />
-          <img src="public/images45.jpg" />
-          <img src="public/images46.jpg" />
-          <img src="public/images47.jpg" />
-          <img src="public/images48.jpg" />
-        </div>
-      </section>
+    <div className="Get">
+  <img src="/hq.jpg" />
+  <img src="/hq1.jpg" />
+  <img src="/image42.jpg" />
+  <img src="/images40.jpg" />
+  <img src="/images41.jpg" />
+  <img src="/images43.jpg" />
+  <img src="/images45.jpg" />
+  <img src="/images46.jpg" />
+  <img src="/images47.jpg" />
+  <img src="/images48.jpg" />
+</div>
 
       <h2 style={{ textAlign: "center" }}>More Reasons to Join</h2>
 
